@@ -1,0 +1,2 @@
+# trydjango
+Django Starter
